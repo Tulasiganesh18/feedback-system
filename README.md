@@ -130,6 +130,6 @@ Some code snippets and structures were assisted using AI (ChatGPT), but all logi
 
 ## 👋 Author
 
-**Neelakanteswar Bathula**
+**Tulasi Veera Venkata Sai Ganesh Bathula**
 Built as part of a paid internship application task.
 Tech enthusiast, passionate about clean UI and scalable backend.
